@@ -23,7 +23,7 @@
         <div class="grid">
             <div id="about-me" class="about">
                 <div class="title"><p>About me</p></div>
-                <div class="title"><img src="images/pranay.jpg" alt="Picture of me"/></div>
+                <div class="profile_pic"><img src="images/pranay.jpg" alt="Picture of me"/></div>
                 <div class="content">
                     <p>My name is Pranay Marella. I am a student at the University of Illinois at Urbana Champaign. Studying Economics and Statistics. I expect to do my masters in Software Engineering from Harvard Extension School starting in Fall 2018.</p>
                 </div>
