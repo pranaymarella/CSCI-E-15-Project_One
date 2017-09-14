@@ -95,14 +95,6 @@ body {
     position: relative;
 }
 
-.image {
-    left: 45%;
-    height: 10%;
-    width: 10%;
-    display: block;
-    position: relative;
-}
-
 .content {
     width: 50%;
     left: 36%;
