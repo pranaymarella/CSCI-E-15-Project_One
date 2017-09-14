@@ -93,6 +93,16 @@ body {
     position: relative;
 }
 
+.image {
+    font-family: 'Audiowide', cursive, sans-serif;
+    font-weight: 400;
+    font-size: 3em;
+    left: 45%;
+    width: 90%;
+    display: block;
+    position: relative;
+}
+
 .content {
     width: 50%;
     left: 36%;
