@@ -53,7 +53,8 @@ html, body {
 }
 
 .profile_pic {
-    left: 40%;
+    left: 35%;
+    width: 100%;
     display: block;
     position: relative;
 }
