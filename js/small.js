@@ -1,12 +1,12 @@
 $(document).ready(function() {
     if ($(window).scrollTop() > 165) {
-        $('.panel').hide();
+        $('.panel').css('visibility', 'hidden');
     }
     $(window).scroll(function() {
-        if ($(this).scrollTop() > 100) {
-            $('.panel').slideUp(50);
+        if ($(this).scrollTop() > 10) {
+            $('.panel').css('visibility', 'hidden');
         } else {
-            $('.panel').slideDown(100);
+            $('.panel').css('visibility', 'visible');
         }
     });
 });
