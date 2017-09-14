@@ -87,8 +87,8 @@ body {
     font-family: 'Audiowide', cursive, sans-serif;
     font-weight: 400;
     font-size: 3em;
-    /*left: 45%;
-    width: 100%;*/
+    left: 45%;
+    width: 75%;
     display: block;
     position: relative;
 }
